@@ -1,0 +1,5 @@
+projectKey=TestPHPUnit_Key
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/TestPHPUnit_Key
+ceTaskId=AVnJ_F2AN9GEwio32ZWn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVnJ_F2AN9GEwio32ZWn
